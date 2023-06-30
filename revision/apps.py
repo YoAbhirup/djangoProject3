@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class NewyearConfig(AppConfig):
+class RevisionConfig(AppConfig):
     default_auto_field = "django.db.models.BigAutoField"
-    name = "NewYear"
+    name = "revision"
